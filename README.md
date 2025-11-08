@@ -13,6 +13,20 @@ IF (can_verify_quickly(solution))
 THEN (can_find_quickly(solution)) ?
 ```
 
+mindmap
+  root((🌐 Root))
+    🧠 Complexity Theory
+      🧩 Complexity Classes
+      ✔️ Verify vs Generate
+    🔬 Quantum Computing
+      ⚛️ Superposition
+      📏 Measurement
+      📊 Quantum Stats
+    🏛️ Practical Applications
+      💰 Banking
+      🧍 Psychology
+      🧑‍💻 DevOps
+      
 ## 📚 Wiki Contents
 
 Our comprehensive wiki explores this question through multiple perspectives:
