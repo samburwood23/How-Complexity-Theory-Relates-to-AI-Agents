@@ -218,9 +218,10 @@ Whether you’re optimising CI/CD pipelines, designing distributed systems, or b
 
 ---
 
-## About
+## About This Wiki Page
 
-This is the accumulation of several years of university study and real world experience 
+**Author:** Sam Burwood  
+**Interests:** Bridging theoretical computer science with practical DevOps work, exploring how complexity theory informs our understanding of AI systems and software engineering.
 
 ### Resources
 
