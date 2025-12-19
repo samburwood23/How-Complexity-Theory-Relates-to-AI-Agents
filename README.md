@@ -27,6 +27,32 @@ This repository provides:
 * **High-resolution diagrams** for accessibility and presentations
 * Educational materials connecting theory to practice
 
+## 📖 Comprehensive Wiki
+
+**For in-depth exploration, visit the [GitHub Wiki](https://github.com/samburwood23/How-Complexity-Theory-Relates-to-AI-Agents/wiki) (24 pages)** covering:
+
+### Foundational Concepts
+* Complexity Classes Reference (P, NP, BQP, NP-Complete)
+* Quantum Mechanics Primer for Software Engineers
+* Kolmogorov Complexity and Solomonoff Induction
+* The Verification-Generation Gap
+
+### Advanced Topics
+* **Agentic AI and State Architecture** - How stateful vs stateless design impacts AI agents
+* Quantum Computing and Observation
+* Quantum Statistics, Probability & Computation
+
+### Practical Applications ⭐
+* **7 Real-World DevOps Examples** - Latency debugging, Terraform, Vault, Jenkins, database failover
+* Software Engineering Use Cases
+* Security and Cryptography
+* Team Dynamics and Knowledge Transfer
+* Economic Implications in Engineering
+
+### Resources
+* Key Readings and References
+* Open Questions and Future Research
+
 ---
 
 # 📚 Topics Covered
@@ -168,16 +194,16 @@ Feel free to open issues for suggestions or to start discussions about complexit
 1. Start with this README to understand the core concepts
 2. Review the interactive HTML diagrams (visualizes 7 key concepts)
 3. Read the expanded whitepaper for academic depth
-4. Explore specific topics of interest from the "Topics Covered" section
+4. **Dive into the [Wiki](https://github.com/samburwood23/How-Complexity-Theory-Relates-to-AI-Agents/wiki)** for detailed explanations and examples
 
 **Recommended Approaches by Background:**
 
-| Background                | Starting Point                           | Focus Areas                                    |
-| ------------------------- | ---------------------------------------- | ---------------------------------------------- |
-| Software Engineers        | Practical Applications → HTML Diagrams   | DevOps gap, debugging vs designing, AI agents  |
-| CS/Math Students          | Whitepaper → Complexity Classes          | P vs NP, Kolmogorov complexity, search theory  |
-| AI/ML Researchers         | Stateful AI Agents → Human-AI Boundaries | Agent design, verification, bounded optimality |
-| Physics/Quantum Enthusiasts | Quantum Lens topics → Observer Effect  | Quantum measurement, stateful computation      |
+| Background                  | Starting Point                              | Focus Areas                                    |
+| --------------------------- | ------------------------------------------- | ---------------------------------------------- |
+| Software Engineers          | [Wiki Practical Examples](https://github.com/samburwood23/How-Complexity-Theory-Relates-to-AI-Agents/wiki/Practical-Examples) → HTML Diagrams | DevOps gap, debugging vs designing, AI agents  |
+| CS/Math Students            | Whitepaper → [Wiki Complexity Classes](https://github.com/samburwood23/How-Complexity-Theory-Relates-to-AI-Agents/wiki/Complexity-Classes-Reference) | P vs NP, Kolmogorov complexity, search theory  |
+| AI/ML Researchers           | [Wiki Agentic AI](https://github.com/samburwood23/How-Complexity-Theory-Relates-to-AI-Agents/wiki/Agentic-AI-and-State-Architecture) → Human-AI Boundaries | Agent design, verification, bounded optimality |
+| Physics/Quantum Enthusiasts | [Wiki Quantum Primer](https://github.com/samburwood23/How-Complexity-Theory-Relates-to-AI-Agents/wiki/Quantum-Mechanics-Primer) → Observer Effect | Quantum measurement, stateful computation      |
 
 ---
 
