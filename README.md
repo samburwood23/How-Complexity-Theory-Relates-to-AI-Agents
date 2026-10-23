@@ -5,6 +5,8 @@
 
 > *“The gap between verification and creation persists. Maybe that’s okay. Maybe it’s even essential.”*
 
+> **Start here:** [Convert Expensive Generation into Cheap Verification](convert-generation-into-verification.md) is the practical core of this project: how golden modules, policy-as-code, ADRs, runbooks, SLOs and mutation testing turn expert judgement into cheap, repeatable checks, and why that matters for AI agents.
+
 ## Overview
 
 This project explores a fundamental question at the intersection of complexity theory, quantum mechanics, information theory and software engineering:
@@ -119,6 +121,7 @@ Much of engineering and design work lives where algorithms struggle: creating, n
 ```
 How-Complexity-Theory-Relates-to-AI-Agents/
 ├── README.md                                    # This overview document
+├── convert-generation-into-verification.md      # Practical essay: turning generation into verification
 ├── Expanded white paper.pdf                     # Comprehensive academic paper (8 pages)
 ├── Whitepaper(1).pdf                           # Alternative version (8 pages)
 ├── paper_ait.docx                              # Editable academic paper source
